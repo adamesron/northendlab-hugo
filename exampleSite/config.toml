@@ -6,27 +6,27 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Arenaweb"
 [[menu.footer]]
-URL = "tools"
-name = "Proyectos"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 1
 [[menu.footer]]
-URL = "contact"
-name = "Contactos"
-weight = 1
-[[menu.main]]
 URL = "tools"
-name = "Proyectos"
+name = "tools"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contactos"
+name = "Contact"
 weight = 1
+[[menu.main]]
+URL = "tools"
+name = "tools"
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2020 [Arenaweb](https://arenaweb.com.do) All Rights Reserved"
 description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
@@ -66,7 +66,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/adamesron"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
