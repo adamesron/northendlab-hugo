@@ -7,20 +7,20 @@ theme = "northendlab-hugo"
 title = "Arenaweb"
 [[menu.footer]]
 URL = "tools"
-name = "tools"
-weight = 2
+name = "Proyectos"
+weight = 1
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
-weight = 1
+name = "Contactos"
+weight = 2
 [[menu.main]]
 URL = "tools"
 name = "Proyectos"
-weight = 2
+weight = 1
 [[menu.main]]
 URL = "contact"
-name = "Contacto"
-weight = 1
+name = "Contactos"
+weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
