@@ -15,7 +15,7 @@ name = "Contact"
 weight = 1
 [[menu.main]]
 URL = "proyectos"
-name = "proyectos"
+name = "Proyectos"
 weight = 2
 [[menu.main]]
 URL = "contacto"
