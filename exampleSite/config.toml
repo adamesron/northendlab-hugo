@@ -15,11 +15,11 @@ name = "Contactos"
 weight = 1
 [[menu.main]]
 URL = "tools"
-name = "tools"
+name = "Proyectos"
 weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contactos"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
