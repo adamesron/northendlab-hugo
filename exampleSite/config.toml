@@ -1,4 +1,4 @@
-baseURL = "https://arenaweb.netlify.com"
+baseURL = "https://myweb1.netlify.com"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
@@ -7,20 +7,20 @@ theme = "northendlab-hugo"
 title = "Arenaweb"
 [[menu.footer]]
 URL = "tools"
-name = "Proyectos"
-weight = 1
+name = "tools"
+weight = 2
 [[menu.footer]]
 URL = "contact"
-name = "Contactos"
-weight = 2
+name = "Contact"
+weight = 1
 [[menu.main]]
 URL = "tools"
 name = "Proyectos"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "contact"
-name = "Contactos"
-weight = 2
+name = "Contacto"
+weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
