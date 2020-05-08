@@ -66,12 +66,12 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-facebook"
-link = "https://www.facebook.com/adamesron"
+link = "https://www.facebook.com/arenaweb.com.do"
+[[params.social]]
+icon = "ti-instagram"
+link = "https://www.instagram.com/arenaweb.com.do/"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-github"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
