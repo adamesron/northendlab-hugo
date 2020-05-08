@@ -71,8 +71,8 @@ link = "https://www.facebook.com/arenaweb.com.do"
 icon = "ti-instagram"
 link = "https://www.instagram.com/arenaweb.com.do/"
 [[params.social]]
-icon = "ti-whatsapp"
-link = "#"
+icon = "ti-email"
+link = "mailto:info@arenaweb.com.do"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
