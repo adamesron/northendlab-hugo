@@ -1,6 +1,6 @@
 +++
 author = "Ron Adames"
-categories = ["Diseño Web"]
+categories = ["", "Diseño Web"]
 date = 2020-05-10T04:00:00Z
 description = "This is meta description"
 image = "/images/Web-design.jpg"
@@ -10,11 +10,11 @@ type = "post"
 +++
 **Servicios de Diseño y Desarrollo Web**
 
-<p style="text-align:justify;">Un sitio web no solo debe llamar la atención. La función de un sitio web **es atraer e involucrar al usuario**, así como comunicar **su marca** y crear conciencia sobre un producto o servicio.</p>
+Un sitio web no solo debe llamar la atención. La función de un sitio web **es atraer e involucrar al usuario**, así como comunicar **su marca** y crear conciencia sobre un producto o servicio.
 
 **Sus clientes no le darán una segunda oportunidad para causar una primera impresión.**
 
-<p>En un mundo digital, las primeras impresiones son vitales y el diseño web excepcional es la clave del éxito. Los usuarios disfrutan visitar sitios que son estéticamente atractivos y fáciles de navegar. Deje que nuestro equipo ayude a su sitio a causar una excelente primera impresión con rapidez y accesibilidad.</p>
+En un mundo digital, las primeras impresiones son vitales y el diseño web excepcional es la clave del éxito. Los usuarios disfrutan visitar sitios que son estéticamente atractivos y fáciles de navegar. Deje que nuestro equipo ayude a su sitio a causar una excelente primera impresión con rapidez y accesibilidad.
 
 El desarrollo y diseño web incluye lo siguiente:
 
