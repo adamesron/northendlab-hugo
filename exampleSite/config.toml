@@ -6,20 +6,20 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Arenaweb "
 [[menu.footer]]
-URL = "tools"
-name = "Proyectos"
+URL = "contact"
+name = "Contacto"
 weight = 2
 [[menu.footer]]
+URL = "tools"
+name = "Proyectos"
+weight = 1
+[[menu.main]]
 URL = "contact"
 name = "Contacto"
-weight = 1
+weight = 2
 [[menu.main]]
 URL = "tools"
 name = "Proyectos"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contacto"
 weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
