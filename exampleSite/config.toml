@@ -4,14 +4,14 @@ languageCode = "en-us"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "My Web "
+title = "Arenaweb "
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Proyectos"
 weight = 2
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 1
 [[menu.main]]
 URL = "tools"
