@@ -3,7 +3,6 @@ author = "Ron Adames"
 categories = ["Web Design"]
 date = 2020-05-10T04:00:00Z
 description = "This is meta description"
-draft = true
 image = "/images/Web-design.jpg"
 title = "Diseño de Páginas Web"
 type = "post"
