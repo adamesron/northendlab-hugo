@@ -1,6 +1,6 @@
 +++
 author = "Ron Adames"
-categories = ["", "Diseño Web"]
+categories = ["Web Design"]
 date = 2020-05-10T04:00:00Z
 description = "This is meta description"
 draft = true
